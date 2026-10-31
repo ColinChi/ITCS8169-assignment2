@@ -1,0 +1,13 @@
+{
+  "split": "test",
+  "tta": true,
+  "models": {
+    "checkpoints/final_ft_dino224_s0.pt": 0.8974999785423279,
+    "checkpoints/final_ft_dino224_s1.pt": 0.8899999856948853,
+    "checkpoints/final_ft_dino224_s2.pt": 0.8899999856948853,
+    "checkpoints/final_mix_simclr224_s0.pt": 0.8924999833106995,
+    "checkpoints/final_mix_simclr224_s1.pt": 0.875,
+    "checkpoints/final_mix_simclr224_s2.pt": 0.8899999856948853
+  },
+  "ensemble": 0.9074999690055847
+}

@@ -1,0 +1,19 @@
+{
+  "split": "val",
+  "tta": true,
+  "models": {
+    "runs/ft_dino224_s0": 0.9104167222976685,
+    "runs/ft_dino224_s1": 0.9062500596046448,
+    "runs/ft_dino224_s2": 0.9104167222976685,
+    "runs/mix_dino224_s0": 0.8875000476837158,
+    "runs/mix_dino224_s1": 0.9062500596046448,
+    "runs/mix_dino224_s2": 0.9000000357627869,
+    "runs/ft_simclr224_s0": 0.8937500715255737,
+    "runs/ft_simclr224_s1": 0.8937500715255737,
+    "runs/ft_simclr224_s2": 0.8833333849906921,
+    "runs/mix_simclr224_s0": 0.9020833969116211,
+    "runs/mix_simclr224_s1": 0.8979167342185974,
+    "runs/mix_simclr224_s2": 0.9062500596046448
+  },
+  "ensemble": 0.92083340883255
+}

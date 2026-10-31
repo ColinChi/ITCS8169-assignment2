@@ -1,0 +1,13 @@
+{
+  "split": "val",
+  "tta": true,
+  "models": {
+    "runs/ft_dino224_s0": 0.9104167222976685,
+    "runs/ft_dino224_s1": 0.9062500596046448,
+    "runs/ft_dino224_s2": 0.9104167222976685,
+    "runs/mix_simclr224_s0": 0.9020833969116211,
+    "runs/mix_simclr224_s1": 0.8979167342185974,
+    "runs/mix_simclr224_s2": 0.9062500596046448
+  },
+  "ensemble": 0.9250000715255737
+}

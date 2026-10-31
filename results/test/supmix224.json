@@ -1,0 +1,10 @@
+{
+  "split": "test",
+  "tta": false,
+  "models": {
+    "runs/supmix224_s0": 0.8524999618530273,
+    "runs/supmix224_s1": 0.824999988079071,
+    "runs/supmix224_s2": 0.8324999809265137
+  },
+  "ensemble": 0.8524999618530273
+}

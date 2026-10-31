@@ -1,0 +1,12 @@
+run,method,backbone,full_train,knn,linear,minutes
+dino128,dino,resnet18,False,0.8145833611488342,0.8354167342185974,6.71
+dino224,dino,resnet18,False,0.8291667103767395,0.8312500715255737,23.98
+dino224_full,dino,resnet18,True,,,44.37
+dino224_r50,dino,resnet50,False,0.8104166984558105,0.8270833492279053,68.24
+dino256,dino,resnet18,False,0.7958333492279053,0.8395833969116211,20.94
+dino256_full,dino,resnet18,True,,,20.15
+simclr128,simclr,resnet18,False,0.8041667342185974,0.7875000238418579,3.58
+simclr224,simclr,resnet18,False,0.8062500357627869,0.8250000476837158,9.81
+simclr224_full,simclr,resnet18,True,,,20.77
+simclr256,simclr,resnet18,False,0.8062500357627869,0.8416666984558105,6.66
+simclr256_full,simclr,resnet18,True,,,8.47

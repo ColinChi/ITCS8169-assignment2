@@ -1,0 +1,10 @@
+{
+  "split": "test",
+  "tta": false,
+  "models": {
+    "runs/mix_dino128_s0": 0.8700000047683716,
+    "runs/mix_dino128_s1": 0.8700000047683716,
+    "runs/mix_dino128_s2": 0.8574999570846558
+  },
+  "ensemble": 0.8700000047683716
+}

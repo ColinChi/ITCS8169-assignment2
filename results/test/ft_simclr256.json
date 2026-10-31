@@ -1,0 +1,10 @@
+{
+  "split": "test",
+  "tta": false,
+  "models": {
+    "runs/ft_simclr256_s0": 0.8524999618530273,
+    "runs/ft_simclr256_s1": 0.85999995470047,
+    "runs/ft_simclr256_s2": 0.8675000071525574
+  },
+  "ensemble": 0.8574999570846558
+}

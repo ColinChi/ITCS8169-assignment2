@@ -1,0 +1,6 @@
+torch>=2.2
+torchvision>=0.17
+numpy
+Pillow
+reportlab  # only for scripts/build_report.py
+python-docx  # only for the Word version of the report
